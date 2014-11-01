@@ -1,8 +1,8 @@
 Package.describe({
   name: 'hillmark:meteor-identicon',
-  summary: ' /* Fill me in! */ ',
+  summary: 'Provides a wrapper around the identicon.js lib and a simple template helper.',
   version: '1.0.0',
-  git: ' /* Fill me in! */ '
+  git: 'https://github.com/hillmark/meteor-identicon'
 });
 
 Package.onUse(function(api) {
